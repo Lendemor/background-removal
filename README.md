@@ -13,3 +13,7 @@ A Reflex app that removes the background of an image. Inspired from [this](https
 4. `source .venv/bin/activate`
 5. `pip install -r requirements.txt`
 6. `reflex run`
+
+## LICENSE
+
+MIT
